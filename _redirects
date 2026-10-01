@@ -1,0 +1,3 @@
+# No redirects needed. Cloudflare Pages resolves clean URLs and
+# slug/index.html directory routing natively. Do not add 200/301 rules here
+# without a real cross-domain or legacy-path need (see site-build-qa Section 4).
