@@ -248,3 +248,8 @@ main .sec h2:has(+ p), main .sec h3:has(+ p){margin-bottom:14px}
 .blogcard-row .thumb{width:140px;height:94px;object-fit:cover;border-radius:8px}
 @media(max-width:520px){.blogcard-row.hasthumb{grid-template-columns:96px 1fr}.blogcard-row .thumb{width:96px;height:72px}}
 .hero .zips{margin-bottom:16px}
+
+footer.sitefoot .foot-social-h{margin-top:18px}
+footer.sitefoot .foot-social{display:flex;flex-wrap:wrap;gap:6px 16px}
+footer.sitefoot .foot-social a{display:inline-block;margin-bottom:4px;font-weight:600;color:var(--navy)}
+footer.sitefoot .foot-social a:hover{text-decoration:underline}
